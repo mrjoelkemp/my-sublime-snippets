@@ -3,6 +3,7 @@
 beforeEach(function() {
   ${1:}
 });
+
 ]]></content>
     <tabTrigger>be</tabTrigger>
     <scope>source.js</scope>

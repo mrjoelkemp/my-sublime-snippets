@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-describe(() => {
-  ${1:}
+describe('${1:}', () => {
+  ${2:}
 });
 ]]></content>
     <tabTrigger>de</tabTrigger>

@@ -3,6 +3,7 @@
 afterEach(function() {
   ${1:}
 });
+
 ]]></content>
     <tabTrigger>af</tabTrigger>
     <scope>source.js</scope>
